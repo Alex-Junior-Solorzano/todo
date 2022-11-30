@@ -38,10 +38,6 @@
  - GitHub: [@Alex-Junior-Solorzano](https://github.com/Alex-Junior-Solorzano)
 
 
-
- ## 🤝 Contributing
-
-
 ## Acknowledgments
 
  - [@vidamrr](https://www.youtube.com/@vidamrr)
