@@ -1,4 +1,4 @@
-<img src='./src/assets/k2.png' height='50px'>
+<img src='./src/images/k2.png' height='50px'>
 
 # Kruger Start Playgound
 
