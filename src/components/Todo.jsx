@@ -34,6 +34,7 @@ const Todo = ({ item, onUpdate, onDelete }) => {
     const TodoElement = () => {
         return (
             <div className='todoInfo'>
+                
                 <span className='todoTitle'>{item.title}</span>
                 <button className='button' onClick={() => setIsEdit(true)}>Editar</button>
                 <button className='buttonDelete' onClick={(e)=> onDelete(item.id)}>Delete</button>

@@ -68,3 +68,17 @@ body{
     color: white;
     padding: 10px 20px;
   }
+
+  .logo{
+    height: 70%;
+    width: 80px;
+    margin: 5px 5px 5px 5px;
+    align-items: flex-start;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-align: center;
+}

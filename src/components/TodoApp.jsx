@@ -47,6 +47,13 @@ const TodoApp = () => {
 
     return (
         <div className='todoContainer'>
+            <div className='titulo'>
+                <img className='logo'
+                  src= {require(`../images/k2.png`)}
+                  alt='Logo'
+                />
+                <h1>Lista de Tareas 📝</h1>
+            </div>
             <form className='todoCreateForm' onSubmit={handleSubmit}>
                 <input className='todoInput' value={title} onChange={handleChange}/>
                 <input className='buttonCreate' onClick={handleSubmit} type="submit" value="Create todo" />
