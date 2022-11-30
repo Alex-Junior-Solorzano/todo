@@ -5,7 +5,7 @@
 
  > Este es el primer proyecto haciendole deply
 
-<img src='./src/assets/playground.png' height='300px'>
+<img src='./src/images/imagen_2022-11-30_161844636.png' height='300px'>
 
 ## Build with 
 
